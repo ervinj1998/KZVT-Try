@@ -1,3 +1,11 @@
+## Live Demo (GitHub Pages)
+
+**[https://ervinj1998.github.io/KZVT-Try/](https://ervinj1998.github.io/KZVT-Try/)**
+
+*(Nota: Este es un enlace temporal para fines de desarrollo y prueba.)*
+
+---
+
 # Landing page design
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
